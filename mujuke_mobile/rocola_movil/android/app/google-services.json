@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330865006314",
+    "project_id": "mujuke-6f0ea",
+    "storage_bucket": "mujuke-6f0ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330865006314:android:5e7db3dec65d9fb2e42993",
+        "android_client_info": {
+          "package_name": "com.example.rocola_movil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330865006314-hi3pdgfr2sb5oup40ja55amr89m2m184.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgcd0AUxUzIelUwWiyuwptib5E4G6C6XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330865006314-ap2avpu2l8ucscpc184th4k772u7heoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
